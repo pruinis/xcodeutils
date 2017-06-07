@@ -21,4 +21,6 @@ We now support .storyboard file
 $>sh ./find-unused-resources.sh path-to-project > report-name
 
 ex: find-unused-resources.sh ~/myproject > unused.html
+
+sudo >sh ./find-unused-resources.sh ./ > unused.html
 ~~~
