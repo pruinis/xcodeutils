@@ -22,5 +22,8 @@ $>sh ./find-unused-resources.sh path-to-project > report-name
 
 ex: find-unused-resources.sh ~/myproject > unused.html
 
+
+In project folder:
+
 sudo >sh ./find-unused-resources.sh ./ > unused.html
 ~~~
